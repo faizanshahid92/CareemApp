@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FinalMVCProjectQueryModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AdminInfo">
+    <Key>
+      <PropertyRef Name="AdminId" />
+    </Key>
+    <Property Name="AdminId" Type="int" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="HireDate" Type="date" />
+    <Property Name="Gender" Type="varchar" MaxLength="10" />
+    <Property Name="PhoneNo" Type="varchar" MaxLength="20" />
+    <Property Name="HomeAddress" Type="varchar" MaxLength="250" />
+    <Property Name="Email" Type="varchar" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="CarCompany">
+    <Key>
+      <PropertyRef Name="CompanyId" />
+    </Key>
+    <Property Name="CompanyId" Type="int" Nullable="false" />
+    <Property Name="CompanyName" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="CarInfo">
+    <Key>
+      <PropertyRef Name="CarId" />
+    </Key>
+    <Property Name="CarId" Type="int" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="10" />
+    <Property Name="Model" Type="int" />
+    <Property Name="Company" Type="varchar" MaxLength="10" />
+    <Property Name="RegNo" Type="varchar" MaxLength="20" />
+    <Property Name="CarDriver" Type="int" />
+    <Property Name="Car_Company" Type="int" />
+  </EntityType>
+  <EntityType Name="DriverInfo">
+    <Key>
+      <PropertyRef Name="DriverId" />
+    </Key>
+    <Property Name="DriverId" Type="int" Nullable="false" />
+    <Property Name="DriverName" Type="varchar" MaxLength="50" />
+    <Property Name="DriverHireDate" Type="date" />
+    <Property Name="BirthDate" Type="date" />
+    <Property Name="Gender" Type="varchar" MaxLength="10" />
+    <Property Name="HomeAddress" Type="varchar" MaxLength="250" />
+    <Property Name="Email" Type="varchar" MaxLength="250" />
+    <Property Name="PhoneNo" Type="varchar" MaxLength="20" />
+    <Property Name="LicenseNo" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PassengerInfo">
+    <Key>
+      <PropertyRef Name="PassengerId" />
+    </Key>
+    <Property Name="PassengerId" Type="int" Nullable="false" />
+    <Property Name="PassengerName" Type="varchar" MaxLength="50" />
+    <Property Name="Gender" Type="varchar" MaxLength="10" />
+    <Property Name="CellNo" Type="varchar" MaxLength="20" />
+    <Property Name="PermenantAddress" Type="varchar" MaxLength="250" />
+  </EntityType>
+  <Association Name="FK__CarInfo__Car_Com__2A4B4B5E">
+    <End Role="CarCompany" Type="Self.CarCompany" Multiplicity="0..1" />
+    <End Role="CarInfo" Type="Self.CarInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CarCompany">
+        <PropertyRef Name="CompanyId" />
+      </Principal>
+      <Dependent Role="CarInfo">
+        <PropertyRef Name="Car_Company" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CarInfo__CarDriv__29572725">
+    <End Role="DriverInfo" Type="Self.DriverInfo" Multiplicity="0..1" />
+    <End Role="CarInfo" Type="Self.CarInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DriverInfo">
+        <PropertyRef Name="DriverId" />
+      </Principal>
+      <Dependent Role="CarInfo">
+        <PropertyRef Name="CarDriver" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FinalMVCProjectQueryModelStoreContainer">
+    <EntitySet Name="AdminInfo" EntityType="Self.AdminInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CarCompany" EntityType="Self.CarCompany" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CarInfo" EntityType="Self.CarInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DriverInfo" EntityType="Self.DriverInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PassengerInfo" EntityType="Self.PassengerInfo" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__CarInfo__Car_Com__2A4B4B5E" Association="Self.FK__CarInfo__Car_Com__2A4B4B5E">
+      <End Role="CarCompany" EntitySet="CarCompany" />
+      <End Role="CarInfo" EntitySet="CarInfo" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CarInfo__CarDriv__29572725" Association="Self.FK__CarInfo__CarDriv__29572725">
+      <End Role="DriverInfo" EntitySet="DriverInfo" />
+      <End Role="CarInfo" EntitySet="CarInfo" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

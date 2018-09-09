@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FinalMVCProjectQueryModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="AdminInfo">
+    <Key>
+      <PropertyRef Name="AdminId" />
+    </Key>
+    <Property Name="AdminId" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="HireDate" Type="DateTime" Precision="0" />
+    <Property Name="Gender" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="PhoneNo" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="HomeAddress" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="CarCompany">
+    <Key>
+      <PropertyRef Name="CompanyId" />
+    </Key>
+    <Property Name="CompanyId" Type="Int32" Nullable="false" />
+    <Property Name="CompanyName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="CarInfoes" Relationship="Self.FK__CarInfo__Car_Com__2A4B4B5E" FromRole="CarCompany" ToRole="CarInfo" />
+  </EntityType>
+  <EntityType Name="CarInfo">
+    <Key>
+      <PropertyRef Name="CarId" />
+    </Key>
+    <Property Name="CarId" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Model" Type="Int32" />
+    <Property Name="Company" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="RegNo" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="CarDriver" Type="Int32" />
+    <Property Name="Car_Company" Type="Int32" />
+    <NavigationProperty Name="CarCompany" Relationship="Self.FK__CarInfo__Car_Com__2A4B4B5E" FromRole="CarInfo" ToRole="CarCompany" />
+    <NavigationProperty Name="DriverInfo" Relationship="Self.FK__CarInfo__CarDriv__29572725" FromRole="CarInfo" ToRole="DriverInfo" />
+  </EntityType>
+  <EntityType Name="DriverInfo">
+    <Key>
+      <PropertyRef Name="DriverId" />
+    </Key>
+    <Property Name="DriverId" Type="Int32" Nullable="false" />
+    <Property Name="DriverName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DriverHireDate" Type="DateTime" Precision="0" />
+    <Property Name="BirthDate" Type="DateTime" Precision="0" />
+    <Property Name="Gender" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="HomeAddress" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="PhoneNo" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="LicenseNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="CarInfoes" Relationship="Self.FK__CarInfo__CarDriv__29572725" FromRole="DriverInfo" ToRole="CarInfo" />
+  </EntityType>
+  <EntityType Name="PassengerInfo">
+    <Key>
+      <PropertyRef Name="PassengerId" />
+    </Key>
+    <Property Name="PassengerId" Type="Int32" Nullable="false" />
+    <Property Name="PassengerName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Gender" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="CellNo" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="PermenantAddress" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="FK__CarInfo__Car_Com__2A4B4B5E">
+    <End Role="CarCompany" Type="Self.CarCompany" Multiplicity="0..1" />
+    <End Role="CarInfo" Type="Self.CarInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CarCompany">
+        <PropertyRef Name="CompanyId" />
+      </Principal>
+      <Dependent Role="CarInfo">
+        <PropertyRef Name="Car_Company" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CarInfo__CarDriv__29572725">
+    <End Role="DriverInfo" Type="Self.DriverInfo" Multiplicity="0..1" />
+    <End Role="CarInfo" Type="Self.CarInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DriverInfo">
+        <PropertyRef Name="DriverId" />
+      </Principal>
+      <Dependent Role="CarInfo">
+        <PropertyRef Name="CarDriver" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FinalMVCProjectQueryEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AdminInfoes" EntityType="Self.AdminInfo" />
+    <EntitySet Name="CarCompanies" EntityType="Self.CarCompany" />
+    <EntitySet Name="CarInfoes" EntityType="Self.CarInfo" />
+    <EntitySet Name="DriverInfoes" EntityType="Self.DriverInfo" />
+    <EntitySet Name="PassengerInfoes" EntityType="Self.PassengerInfo" />
+    <AssociationSet Name="FK__CarInfo__Car_Com__2A4B4B5E" Association="Self.FK__CarInfo__Car_Com__2A4B4B5E">
+      <End Role="CarCompany" EntitySet="CarCompanies" />
+      <End Role="CarInfo" EntitySet="CarInfoes" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CarInfo__CarDriv__29572725" Association="Self.FK__CarInfo__CarDriv__29572725">
+      <End Role="DriverInfo" EntitySet="DriverInfoes" />
+      <End Role="CarInfo" EntitySet="CarInfoes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

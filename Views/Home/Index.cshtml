@@ -1,0 +1,65 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<script>
+    function checkSearchChanged()
+    {
+        var currentValue = $('#txtsearch').val();
+        var ajaxMethodUrl = "@(Url.Action("SearchName", "Home"))";
+        //alert(currentValue);
+        $("#txtsearch").autocomplete({
+            source: function ( request,response)
+            {
+                var names = new Array();
+                $.ajax({
+                    async: false,
+                    cache: false,
+                    type: "Get",
+                    url: ajaxMethodUrl,
+                    data: { "SearchKeyword": $('#txtsearch').val() },
+                    success: function (data)
+                    {
+                        for(var i = 0 ; i<data.length ; i++ )
+                            names[i] = {label:data[i], id:data[i] };
+                    }
+                });
+                response(names);
+            }
+        });
+    }
+    function checkSearchChanged2()
+    {
+        var currentValue = $('#txtsearch2').val();
+        var ajaxMethodUrl = "@(Url.Action("SearchName2", "Home"))";
+        //alert(currentValue);
+        $("#txtsearch2").autocomplete({
+            source: function ( request,response)
+            {
+                var names = new Array();
+                $.ajax({
+                    async: false,
+                    cache: false,
+                    type: "Get",
+                    url: ajaxMethodUrl,
+                    data: { "SearchKeyword": $('#txtsearch2').val() },
+                    success: function (data)
+                    {
+                        for(var i = 0 ; i<data.length ; i++ )
+                            names[i] = {label:data[i], id:data[i] };
+                    }
+                });
+                response(names);
+            }
+        });
+    }
+
+</script>
+<div class="jumbotron">
+    <h1>Careem App</h1>
+    <input type="text" class="form-control control-label" id="txtsearch" onkeyup="checkSearchChanged()" placeholder="Search Driver" />
+   
+    <input type="text" class="form-control control-label" id="txtsearch2" onkeyup="checkSearchChanged2()" placeholder="Search Car" />
+
+</div>

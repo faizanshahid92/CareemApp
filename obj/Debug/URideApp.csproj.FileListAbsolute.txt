@@ -1,0 +1,276 @@
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\URideApp.dll.config
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\URideApp.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\URideApp.pdb
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Owin.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Owin.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\WebGrease.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Owin.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\obj\Debug\URideApp.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\obj\Debug\URideApp.dll
+C:\Users\DELL\Desktop\Final MVC Project\URideApp\URideApp\obj\Debug\URideApp.pdb
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\URideApp.dll.config
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\URideApp.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\URideApp.pdb
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Owin.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Owin.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\WebGrease.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Owin.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Desktop\URideApp\URideApp\obj\Debug\URideApp.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\URideApp\URideApp\obj\Debug\URideApp.dll
+C:\Users\DELL\Desktop\URideApp\URideApp\obj\Debug\URideApp.pdb
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\URideApp.dll.config
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\URideApp.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\URideApp.pdb
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Owin.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Owin.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\WebGrease.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Owin.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\obj\Debug\URideApp.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\obj\Debug\URideApp.dll
+C:\Users\DELL\Desktop\Abdul Moiz\URideApp\URideApp\obj\Debug\URideApp.pdb
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\URideApp.dll.config
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\URideApp.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\URideApp.pdb
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Owin.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Owin.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\WebGrease.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Owin.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\obj\Debug\URideApp.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\obj\Debug\URideApp.dll
+C:\Users\DELL\Desktop\Faizan\CareemApp\URideApp\obj\Debug\URideApp.pdb

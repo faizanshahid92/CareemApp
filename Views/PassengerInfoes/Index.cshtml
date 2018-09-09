@@ -1,0 +1,51 @@
+﻿@model IEnumerable<URideApp.Models.PassengerInfo>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Add New Passenger", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PassengerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gender)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CellNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PermenantAddress)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.PassengerName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Gender)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CellNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PermenantAddress)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PassengerId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PassengerId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PassengerId })
+        </td>
+    </tr>
+}
+
+</table>
